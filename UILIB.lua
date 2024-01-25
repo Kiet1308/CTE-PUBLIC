@@ -22,7 +22,7 @@ if getgenv().Tvk then
 		["Page Selected Color"] = Color3.fromRGB(131, 181, 255),
 		["Section Text Color"] = Color3.fromRGB(255,180,180),
 		["Section Underline Color"] = Color3.fromRGB(255,180,180),
-		["Toggle Border Color"] = Color3.fromRGB(131, 181, 255),
+		["Toggle Border Color"] = Color3.fromRGB(255,180,180),
 		["Toggle Checked Color"] = Color3.fromRGB(230, 230, 230),
 		["Toggle Desc Color"] = Color3.fromRGB(185, 185, 185),
 		["Button Color"] = Color3.fromRGB(131, 181, 255),
